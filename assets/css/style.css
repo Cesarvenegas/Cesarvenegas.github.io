@@ -1,0 +1,43 @@
+
+.logo {
+    width: 25%;
+    height: 30%;
+}
+ 
+
+    .img-fluid {
+      margin-left: -20px; 
+  }
+
+  .custom-carousel {
+    max-width: 25%;
+    margin: auto;   
+    padding-block: 40px;
+    margin-top: 10rem;
+  }
+  
+  .custom-carousel img {
+    width: 50%;    
+    height: 40%;   
+  }
+
+.presentacion img{
+
+border-radius: 75%;
+
+
+}
+ 
+footer{
+   
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  line-height: 2em;
+  color: white;
+  text-align: center;
+  background: #1E1A13;
+  opacity: 0.94;
+
+}
+
