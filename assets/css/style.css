@@ -1,35 +1,44 @@
-
 .logo {
-    width: 25%;
-    height: 30%;
+  width: 25%;
+  height: 30%;
 }
+
+
+.img-fluid {
+  margin-left: -20px;
+}
+.contenido {
+  display: inline-block;
+  text-align: left; /* Alineación del texto a la izquierda dentro del contenedor */
+  max-width: 80%; /* Ancho máximo para el contenido */
  
+}
 
-    .img-fluid {
-      margin-left: -20px; 
-  }
+.carousel-inner{
 
-  .custom-carousel {
-    max-width: 25%;
-    margin: auto;   
-    padding-block: 40px;
-    margin-top: 10rem;
-  }
-  
-  .custom-carousel img {
-    width: 50%;    
-    height: 40%;   
-  }
+  width: 100%;
+}
+.custom-carousel {
 
-.presentacion img{
+  max-width: 25%;
+  margin: auto;
+  padding-bottom: 100px;
+  padding-top: 5%;
+}
 
-border-radius: 75%;
+.custom-carousel img {
 
+  height: 350%;
 
 }
- 
-footer{
-   
+
+.presentacion img {
+
+  border-radius: 75%;
+}
+
+footer {
+
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -41,3 +50,16 @@ footer{
 
 }
 
+
+
+.estudios {
+  margin-bottom: 50px;
+}
+
+.bg-gray-200 {
+  background-color: #ccc; 
+}
+
+.bg-gray-300 {
+  background-color: #eaeaea; 
+}
